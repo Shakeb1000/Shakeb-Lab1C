@@ -1,6 +1,8 @@
 // Author: Shakeb Siddiqui sms8508@psu.edu
 // Collaborator: Dominic Savaglio djs7129@psu.edu
-//
+// Sneha Prem Chansran : smp6705@psu.edu
+// Samantha Zolin: saz5193@psu.edu
+
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
